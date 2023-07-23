@@ -1,2 +1,2 @@
-# maldev
-Malware Development
+# Malware Development
+Malware Development scripts repository
